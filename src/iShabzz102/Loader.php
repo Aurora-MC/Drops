@@ -4,7 +4,7 @@ namespace iShabzz102;
 use pocketmine\Server;
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
-use pocketmine\event\player\PlayerDeathEvent
+use pocketmine\event\player\PlayerDeathEvent;
 
 class Loader extends PluginBase{
 
