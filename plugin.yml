@@ -2,4 +2,8 @@ name: Drops
 main: iShabzz102\Loader
 api: [3.0.0]
 version: 1.0.0
-author: Shabzz102
+authors: [Shabzz102, Atomization]
+commands:
+  drops:
+    description: Enable or Disable drops
+    aliases: [dr]
