@@ -24,7 +24,7 @@ class Loader extends PluginBase implements Listener {
   $this->getServer()->getLogger()->notice($this->prefix.TF::GREEN."Drops $statut");
  }
    public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
-       //Adding Commands Soon
+       //Adding Commands Soon.
    }
 }
  public function PlayerDeath(PlayerDeathEvent $ev){
