@@ -4,6 +4,12 @@ Simple pocketmine plugin to disable drops on death.
 *drops:*
 - alias: dr
 - description: Set drops true/false
+#Config
+```yml
+---
+drops: true
+...
+```
 ## How To Use:
 #### 1. Simply add the plugin to your server.
 ####  2. open config and true or false.
