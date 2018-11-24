@@ -4,7 +4,7 @@ Simple pocketmine plugin to disable drops on death.
 *drops:*
 - alias: dr
 - description: Set drops true/false
-#Config
+# Config
 ```yml
 ---
 drops: true
