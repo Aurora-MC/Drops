@@ -39,7 +39,7 @@ class Loader extends PluginBase implements Listener {
      * @return bool
      */
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
-        if (isset($args)) {
+        if (isset($args[0])) {
             switch ($args[0]) {
                 case 'on':
                     $this->getConfig()->set("drops", true);
